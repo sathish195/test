@@ -8,6 +8,7 @@ return(
     <button onClick={increment}>+</button>
     <button onClick={decrement}>-</button>
     <button onClick={reset}>reset</button>
+    <h1>sathish</h1>
     </>
 )
 
